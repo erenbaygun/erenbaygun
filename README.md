@@ -1,6 +1,6 @@
-## Selamlar Millet! Ben Eren 🖐
+## Selamlar Millet! 🖐
 
-Merhaba adım Eren ve 16 yaşındayım. 2 yıldır Discord botları geliştiriyorum. Hâlâ bilmediğim programlama dilleri var, bu yüzden öğrenmeye devam ediyorum, bu konuda hâlâ oldukça yeniyim.
+Merhaba adım Eren ve 16 yaşındayım. İstanbul'da lise 2. sınıf öğrencisiyim. 2 yıldır discord botları geliştiriyorum ve geliştirmeye devam ediyorum. Projelerime göz atmayı unutma.
 
 ## 🔧 Languages and Tools
 - ![](https://img.shields.io/badge/Code-JavaScript-black?style=flat-square&logo=javascript&logoColor=brightgreen)
