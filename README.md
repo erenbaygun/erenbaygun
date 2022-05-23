@@ -3,10 +3,18 @@
 Merhaba adım Eren ve 16 yaşındayım. İstanbul'da lise 2. sınıf öğrencisiyim. 2 yıldır discord botları geliştiriyorum ve geliştirmeye devam ediyorum. Projelerime göz atmayı unutma.
 
 ## 🔧 Languages and Tools
-- ![](https://img.shields.io/badge/Code-JavaScript-black?style=flat-square&logo=javascript&logoColor=brightgreen)
-- ![](https://img.shields.io/badge/Code-Node.js-black?style=flat-square&logo=nodedotjs&logoColor=green)
-- ![](https://img.shields.io/badge/Tools-Visual%20Studio%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=blue)
-- ![](https://img.shields.io/badge/Tools-MongoDB-black?style=flat-square&logo=mongodb&logoColor=cyan)
+- &nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-141414?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-141414?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-141414?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-141414?style=flat&logo=node.js)
+- &nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-141414?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-141414?style=flat&logo=mongodb)
+- &nbsp;
+![Git](https://img.shields.io/badge/-Git-141414?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-141414?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141414?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ![Profile views](https://gpvc.arturio.dev/ErenBaygun)  
 
