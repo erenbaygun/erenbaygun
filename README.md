@@ -5,11 +5,8 @@
 **I am a self-taught discord bot developer from Turkey.**
 <br/>I love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
 <br />**I have 2+ Years of experience in discord bot development.**
-
 <!-- <img src="https://github-readme-stats.vercel.app/api/?username=ErenBaygun&show_icons=true" alt="git stats"> -->
-<br />
 
-<br />
 
 ## Fun Fact 🎈:
 
