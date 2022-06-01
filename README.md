@@ -17,7 +17,7 @@
 
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
 • 👯 I’m looking to collaborate on cool project.<br/>
-• 💬 Ask me about <b>Discord Devel</b>.<br/>
+• 💬 Ask me about <b>Discord Development</b>.<br/>
 • 📫 Reach me out <a href="https://www.instagram.com/eren.byg"><b>@eren.byg</b></a><br/>
 </span>
 
