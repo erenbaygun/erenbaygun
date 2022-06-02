@@ -18,7 +18,7 @@
 • 📫 Reach me out <a href="https://www.instagram.com/eren.byg"><b>@eren.byg</b></a><br/>
 </span>
 
-![Profile views](https://gpvc.arturio.dev/ErenBaygun)  
+<!-- ![Profile views](https://gpvc.arturio.dev/ErenBaygun) -->
 
 [![Discord Profile](https://lanyard-profile-readme.vercel.app/api/513752527989374976?theme=dark&bg=272727&idleMessage=%22%C5%9Eu%20anda%20bir%20%C5%9Fey%20yapm%C4%B1yorum.%22)](https://discord.com/users/513752527989374976)
 
