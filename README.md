@@ -15,7 +15,7 @@
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
 • 👯 I’m looking to collaborate on cool project.<br/>
 • 💬 Ask me about <b>Discord Bot Development</b>.<br/>
-• 📫 Reach me out <a href="https://discord.gg/MEdUDMSTMx"><b>@Sanctus</b></a><br/>
+• 📫 You can reach me via <a href="https://discord.gg/MEdUDMSTMx"><b>Discord</b></a> & <a href="https://www.instagram.com/eren.byg"><b>Instagram</b></a><br/>
 </span>
 
 <!-- ![Profile views](https://gpvc.arturio.dev/ErenBaygun) -->
