@@ -15,7 +15,7 @@
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
 • 👯 I’m looking to collaborate on cool project.<br/>
 • 💬 Ask me about <b>Discord Bot Development</b>.<br/>
-• 📫 Reach me out <a href="https://www.instagram.com/eren.byg"><b>@eren.byg</b></a><br/>
+• 📫 Reach me out <a href="https://discord.gg/MEdUDMSTMx"><b>@Sanctus</b></a><br/>
 </span>
 
 <!-- ![Profile views](https://gpvc.arturio.dev/ErenBaygun) -->
@@ -34,7 +34,7 @@
 <a href="https://www.instagram.com/eren.byg"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
-<a href="https://discord.com/users/513752527989374976"> 
+<a href="https://discord.gg/MEdUDMSTMx"> 
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord"/>
 </a>
 <!-- <a href="https://www.youtube.com/channel/UC1hooNUnK4Ivk5KBaT5PKIg"> 
