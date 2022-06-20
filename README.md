@@ -14,7 +14,7 @@
 
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
 • 👯 I’m looking to collaborate on cool project.<br/>
-• 🌱 I’m currently learning Javascript;<br/>
+• 🌱 I’m currently learning Javascript.<br/>
 • 💬 Ask me about <b>Discord Bot Development</b>, I am happy to help.<br/>
 • 📫 You can reach me via <a href="https://discord.gg/MEdUDMSTMx"><b>Discord</b></a> & <a href="https://www.instagram.com/eren.byg"><b>Instagram</b></a><br/>
 </span>
