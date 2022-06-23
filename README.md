@@ -15,7 +15,7 @@
 • 🔭 I’m currently working on <b>Discord invite manager bot!</b> <br/>
 • 👯 I’m looking to collaborate on cool project.<br/>
 • 🌱 I’m currently learning HTML & CSS.<br/>
-• 💬 Ask me about <b>Discord Bot Development</b>, I am happy to help.<br/>
+• 💬 Ask me about <b>Discord Bots</b>, I am happy to help.<br/>
 • 📫 You can reach me via <a href="https://discord.gg/MEdUDMSTMx"><b>Discord</b></a> & <a href="https://www.instagram.com/eren.byg"><b>Instagram</b></a><br/>
 </span>
 
