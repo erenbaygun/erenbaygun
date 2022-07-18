@@ -13,7 +13,7 @@
 
 <!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
 
-• 🔭 I’m currently working on <b>Discord invite manager bot!</b> <br/>
+• 🔭 I’m currently working on <b>something cool!</b> <br/>
 • 👯 I’m looking to collaborate on cool project.<br/>
 • 🌱 I’m currently learning HTML & CSS.<br/>
 • 💬 Ask me about <b>Discord Bots</b>, I am happy to help.<br/>
