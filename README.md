@@ -15,7 +15,6 @@
 
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
 • 👯 I’m looking to collaborate on cool project.<br/>
-• 🌱 I’m currently learning HTML & CSS.<br/>
 • 💬 Ask me about <b>Discord Bots</b>, I am happy to help.<br/>
 • 📫 You can reach me via <a href="https://erenbaygun.github.io/discord"><b>Discord</b></a><br/>
 </span>
