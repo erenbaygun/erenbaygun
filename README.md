@@ -1,7 +1,7 @@
 ## 🖐 Hi, I am Eren!
 <br />**I am a computer engineering student from Turkey.**
 <br/>**I love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.**
-<br />**I have 3+ Years of experience in javascript.**
+<br />**I have 3+ Years of experience in node.js.**
 <br/><br/>👀 **Check out my website** --> <a href="https://erenbaygun.github.io"><b>erenbaygun.github.io</b></a>
 
 
